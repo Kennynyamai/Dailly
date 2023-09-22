@@ -11,5 +11,15 @@ Daily is a simple and elegant personal journaling app designed to help you captu
 - **Customization**: Personalize your journal entries by being able to delete unwanted ones
 
 **Access Daily**:
-Open your web browser and go to `(https://dailly.onrender.com/)https://dailly.onrender.com/` to access the Daily app.
+Open your web browser and go to https://dailly.onrender.com/ to access the Daily app.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+If you have any questions or suggestions, feel free to reach out to us at kennynyamai73@gmail.com or keringcaleb3@gmail.com
+
+Happy journaling!
 
